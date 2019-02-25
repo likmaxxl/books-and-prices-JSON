@@ -1,0 +1,28 @@
+{
+  "books": [{
+      "bookName": "Black Leopard, Red Wolf",
+      "author": "Marlon James",
+      "price": "30 €"
+    },
+    {
+      "bookName": "This is Going to Hurt",
+      "author": "Adam Kay",
+      "price": "7,53 €"
+    },
+    {
+      "bookName": "Educated",
+      "author": "Tara Westover",
+      "price": "9,59 € "
+    },
+    {
+      "bookName": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "price": "12,21 € "
+    },
+    {
+      "bookName": "Three Poems",
+      "author": "Hannah Sullivan",
+      "price": "9,77 €   "
+    }
+  ]
+}

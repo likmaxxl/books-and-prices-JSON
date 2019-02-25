@@ -1,0 +1,22 @@
+#tbl {
+  width: 100%;
+  text-align: left;
+  border: solid 1px black;
+}
+
+#tbl tr th {
+  font-size: 20px;
+  text-transform: uppercase;
+  padding: 5px 5px 20px 5px;
+}
+
+#tbl tr td {
+  font-size: 18px;
+  padding: 10px 5px;
+  border: solid 1px black;
+}
+
+#tbl tr:hover {
+  cursor: pointer;
+  background-color: #edff48;
+}
